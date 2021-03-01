@@ -1,0 +1,6 @@
+framework module BHKit {
+  umbrella header "BHKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
