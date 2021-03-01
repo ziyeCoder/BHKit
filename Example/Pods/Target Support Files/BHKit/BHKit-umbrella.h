@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "BHMacro.h"
+#import "NSString+BHExtension.h"
 
 FOUNDATION_EXPORT double BHKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char BHKitVersionString[];
